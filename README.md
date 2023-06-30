@@ -6,7 +6,7 @@ Welcome to the mkdir Discord Server Issue Tracker! This public repository is ded
 
 If you've encountered a problem, have a suggestion, or want to report a bug, we encourage you to open an issue here on GitHub. To get started, follow these steps:
 
-1. Click on the [Issues](https://github.com/litruv/mkdir-discord/issues) tab above to view existing issues or open a new one.
+1. Click on the [Issues](https://github.com/mkdir-community/mkdir-discord) tab above to view existing issues or open a new one.
 2. Before creating a new issue, please check if a similar issue already exists. If it does, feel free to add any additional information or provide your input by commenting on the existing issue.
 3. When creating a new issue, provide a clear and descriptive title that summarizes the problem, suggestion, or bug.
 4. In the issue description, provide as much relevant information as possible. Include steps to reproduce the issue (if applicable), any error messages you encountered, and screenshots (if helpful).
